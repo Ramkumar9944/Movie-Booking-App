@@ -1,0 +1,21 @@
+.location {
+  display: flex;
+  justify-content: space-between;
+  padding: 0.2rem;
+}
+h4 {
+  color: #999;
+}
+h4:hover {
+  color: black;
+  cursor: pointer;
+}
+.location h4 {
+  margin-left: 2rem;
+  margin-right: 2rem;
+}
+
+.location img {
+  height: 40px;
+  width: 40px;
+}

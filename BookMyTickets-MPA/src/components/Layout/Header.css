@@ -1,0 +1,61 @@
+.header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 5rem;
+  background-color: black;
+  color: white;
+  display: flex;
+  justify-content: safe;
+  align-items: center;
+  padding: 0 10%;
+  /* box-shadow: 0 2px 8px rgba(0, 0, 0, 0.25); */
+  z-index: 10;
+}
+.header h1 {
+  position: relative;
+  right: 25%;
+  text-decoration: none;
+  color: white;
+}
+button {
+  position: relative;
+  bottom: 20%;
+  background-color: #e50914;
+  color: white;
+  padding: 0.5rem 1rem 0.5rem 1rem;
+  border-radius: 5px;
+  margin-left: 8rem;
+  border: 1px solid #e50914;
+  cursor: pointer;
+}
+
+.header-movie {
+  position: relative;
+  left: 200%;
+  color: white;
+  cursor: pointer;
+}
+.header-theatre {
+  margin-left: 4rem;
+  cursor: pointer;
+}
+.location-action {
+  position: relative;
+  left: 40%;
+  cursor: pointer;
+}
+.login-button {
+  position: relative;
+  left: 40%;
+}
+
+/* .location-identifier {
+  position: relative;
+} */
+.header-movie:hover,
+.header-theatre:hover,
+.location-action:hover {
+  color: #e50914;
+}

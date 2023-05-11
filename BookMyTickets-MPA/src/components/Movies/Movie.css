@@ -1,0 +1,38 @@
+.synopsis {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  position: relative;
+  top: 5rem;
+  background-color: red;
+}
+.name-align {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.movie-image {
+  position: relative;
+  left: 10%;
+  height: 15rem;
+  width: 15rem;
+  margin: 1rem;
+  background-color: white;
+}
+.description {
+  position: absolute;
+  left: 30%;
+  top: 8.5rem;
+  row-gap: 10px;
+  display: grid;
+  place-items: flex-start;
+  color: white;
+}
+.movie-details {
+  position: relative;
+  bottom: 3rem;
+  left: 15%;
+  font-size: xxx-large;
+  font-weight: bolder;
+  color: white;
+}

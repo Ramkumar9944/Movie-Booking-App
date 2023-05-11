@@ -1,0 +1,52 @@
+.booking-modal {
+  position: fixed;
+  top: 25rem;
+  left: 35%;
+  height: fit-content;
+  width: fit-content;
+  background-color: white;
+  padding: 1rem;
+  border-radius: 14px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.25);
+  z-index: 30;
+  animation: slide-down 300ms ease-out forwards;
+}
+.close {
+  position: absolute;
+  height: fit-content;
+  top: 0;
+  right: 0;
+  color: black;
+  background-color: white;
+  border: 1px solid white;
+  font-weight: 2rem;
+  cursor: pointer;
+}
+.OK {
+  cursor: pointer;
+  position: relative;
+  right: 0%;
+  bottom: 0.5rem;
+  margin: 1rem;
+}
+.open-modal {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100vh;
+  z-index: 10;
+  background: rgba(0, 0, 0, 0.75);
+}
+.cinema-logo {
+  position: relative;
+  left: 5%;
+  height: 150px;
+  width: 150px;
+}
+.tickets-logo {
+  position: relative;
+  left: 33%;
+  height: 150px;
+  width: 150px;
+}
