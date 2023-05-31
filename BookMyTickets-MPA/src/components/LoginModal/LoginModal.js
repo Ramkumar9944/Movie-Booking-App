@@ -3,8 +3,8 @@ import SigninForm from "./Signin/SigninForm";
 import { useState } from "react";
 const LoginModal = (props) => {
   const users = [
-    { id: 1, name: "Ram", pass: "Ram1999@" },
-    { id: 2, name: "Karthi", pass: "Karthi@123" },
+    { id: 1, name: "Ram", pass: "Dhoni@123" },
+    { id: 2, name: "Karthi", pass: "Dhoni@123" },
   ];
   // let userlist = [];
   const [userlist, setUserlist] = useState(users);
