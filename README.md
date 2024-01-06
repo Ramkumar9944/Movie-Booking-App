@@ -9,20 +9,20 @@ platform that allows users to login/signup, browse movies based on the location,
 
 # Login page
 
-![alt text](https://github.com/Ramkumar9944/Movei-Booking-App/blob/main/Movie-Booking-App-Login.png)
-
-# Movie Details page
-
-![alt text](https://github.com/Ramkumar9944/Movei-Booking-App/blob/main/Movie-Booking-App-Movie-Details.png)
-
-# Movie Listing page
-
-![alt text](https://github.com/Ramkumar9944/Movei-Booking-App/blob/main/Movie-Booking-App-Movies-Listing.png)
+![alt text](https://github.com/Ramkumar9944/Movie-Booking-App/blob/main/Movie-Booking-App-Login.png)
 
 # Signup page
 
-![alt text](https://github.com/Ramkumar9944/Movei-Booking-App/blob/main/Movie-Booking-App-Movie-Signup.png)
+![alt text](https://github.com/Ramkumar9944/Movie-Booking-App/blob/main/Movie-Booking-App-Signup.png)
+
+# Movie Details page
+
+![alt text](https://github.com/Ramkumar9944/Movie-Booking-App/blob/main/Movie-Booking-App-Movie-Details.png)
+
+# Movie Listing page
+
+![alt text](https://github.com/Ramkumar9944/Movie-Booking-App/blob/main/Movie-Booking-App-Movies-Listing.png)
 
 # Ticket Booking page
 
-![alt text](https://github.com/Ramkumar9944/Movei-Booking-App/blob/main/Movie-Booking-App-Ticket-Booking.png)
+![alt text](https://github.com/Ramkumar9944/Movie-Booking-App/blob/main/Movie-Booking-App-Ticket-Booking.png)
