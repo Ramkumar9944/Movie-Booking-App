@@ -5,7 +5,7 @@ platform that allows users to login/signup, browse movies based on the location,
 
 # Home Page
 
-![alt text](https://github.com/Ramkumar9944/Movei-Booking-App/blob/main/Movie-Booking-App-Homepage.png)
+![alt text](https://github.com/Ramkumar9944/Movie-Booking-App/blob/main/Movie-Booking-App-Homepage.png)
 
 # Login page
 
